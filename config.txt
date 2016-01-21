@@ -1,0 +1,9 @@
+# My configuration file
+INDEX_FILE = data100/index.txt   
+# Here are some important parameters
+PI=3.14159  #circumference of a circle
+E=2.71828 # Base of the natural logarithm
+# The output file is given below
+OUTPUT_FILE = data100/output.txt
+RESTART_PROBABILITY = 0.15
+STEP_NUMBER = 30
